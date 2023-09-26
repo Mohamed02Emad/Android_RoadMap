@@ -16,12 +16,7 @@ Android :is a [mobile operating system](https://en.wikipedia.org/wiki/Mobile_ope
 
 ## Notes:
 
-- We Recommend to read more and more about Android and his History
-- We recommend to you first to have good Knowledge about:
-
-  1. OOP
-  2. Database
-  3. Operating System
+- We recommend having a brief experience in computer science and competetive programming before you begin.
 
 ---
 
@@ -33,7 +28,7 @@ Android :is a [mobile operating system](https://en.wikipedia.org/wiki/Mobile_ope
 |  [**Android Basics**](#android-basics) | Learn the basics of Android and develop your first app.   |
 | [**Intermediate**](#intermediate)  | develop more advaned apps and deal with apis.      |
 | [**Advanced**](#advanced)  | Choose what to learn next.            |
-| [**Jave (Optional)**](#java)  | Learn Java Language to be prepared for interviews.           |
+| [**Jave (Optional)**](#java)  | Learn the Java programming language to prepare for interviews and gain a deeper understanding of what you already know. |
 
 ---
 
@@ -76,12 +71,14 @@ we will also learn about [MVVM](https://www.geeksforgeeks.org/mvvm-model-view-vi
  Part one of Udacity Nano degree
 
  Part two (except for first and third lessons)
-- [Android Nano Degree](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [Android Nano Degree](https://www.udacity.com/course/android-basics-user-interface--ud834)    `recommended`
+
+or you can look for same topics of the nano degree on this chanel
+
+- [Phillip Lackner](https://www.youtube.com/@PhilippLackner)
 
 
-
-
-`Try to make Todo App app with what you learned for example or any task for improving your skill`
+`Try to make Todo App with what you learned for example or any task for improving your skill`
 
 ---
 
@@ -108,7 +105,7 @@ We will depend on Android Developers Documentations
 
 ## Firebase
 
-**Firebase** is a platform developed by Google for creating [**mobile**](https://en.wikipedia.org/wiki/Mobile_phone_application 'Mobile phone application') and [**web**](https://en.wikipedia.org/wiki/Web_application 'Web application') applications. It was originally an independent company founded in 2011.[[1]](https://en.wikipedia.org/wiki/Firebase#cite_note-1) In 2014, Google acquired the platform[[2]](https://en.wikipedia.org/wiki/Firebase#cite_note-2) and it is now their flagship offering for app development.
+**Firebase** is a platform developed by Google for creating [**mobile**](https://en.wikipedia.org/wiki/Mobile_phone_application 'Mobile phone application') and [**web**](https://en.wikipedia.org/wiki/Web_application 'Web application') applications.
 
 
 ## Resources:
@@ -160,6 +157,7 @@ How ever we will recommend some steps for you
   <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" height="400" />
 </p>
 
+# You can start this level at any time
 
 **Java** is a [high-level](https://en.wikipedia.org/wiki/High-level_programming_language 'High-level programming language'), [class-based](https://en.wikipedia.org/wiki/Class-based_programming 'Class-based programming'), [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming 'Object-oriented programming') [programming language](https://en.wikipedia.org/wiki/Programming_language 'Programming language') that is designed to have as few implementation [dependencies](<https://en.wikipedia.org/wiki/Dependency_(computer_science)> 'Dependency (computer science)') as possible. It is a [general-purpose](https://en.wikipedia.org/wiki/General-purpose_language 'General-purpose language') programming language intended to let [application developers](https://en.wikipedia.org/wiki/Application_developer) _write once._
 
