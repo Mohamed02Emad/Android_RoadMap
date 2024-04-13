@@ -1,10 +1,7 @@
-# Android Squad Roadmap
-
-We are in **[CIS Team](https://cisteam.org/)** introduce to you the best road to help you to learn Android Track **in Kotlin**
-
+# Android Roadmap
 
 <p align="center">
-  <img src="https://scontent.fcai19-1.fna.fbcdn.net/v/t39.30808-6/328107660_1149213045772399_1963494986931947831_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=Lak84HOubj0AX--lg2c&_nc_ht=scontent.fcai19-1.fna&oh=00_AfDlDO2j_h8LAoyJITAIduPe0jVgyysLRDgjceqCqXRbHA&oe=65154B27" alt="CIS logo" width="500" height="500" />
+  <img src="https://content.ucpress.edu/blog/wp-content/uploads/2018/12/Most-Read-Cover-Image.jpg" alt="logo" width="500" height="300" />
 </p>
 
 
